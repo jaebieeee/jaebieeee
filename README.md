@@ -25,7 +25,7 @@ I am dedicated to creating efficient, scalable, and user-friendly systems and ap
 
 ## 📬 Let's Connect!  
 📧 **Email:** [jaimaculada08@gmail.com](mailto:jaimaculada08@gmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/your-profile]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/jaira-biane-marie-maculada-436222312/?trk=opento_sprofile_details))  
+🔗 **LinkedIn:** [https://www.linkedin.com/in/jaira-biane-marie-maculada-436222312/?trk=opento_sprofile_details]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/jaira-biane-marie-maculada-436222312/?trk=opento_sprofile_details))  
 💼 **GitHub:** [GitHub Profile]([https://github.com/JairaBianeMaculada](https://github.com/jaebieeee))
 
 ## 🌱 Fun Facts  
