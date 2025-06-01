@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Jaira Biane Maculada  
+ 
 🚀 **Mobile Developer | System Administrator**  
 🎓 **Computer Engineering Student** at **Technological Institute of the Philippines**  
 
