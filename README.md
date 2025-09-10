@@ -1,6 +1,6 @@
  
 🚀 **Mobile Developer | System Administrator**  
-🎓 **Computer Engineering Student** at **Technological Institute of the Philippines**  
+🎓 **Bachelor of Science in Computer Engineering ** at **Technological Institute of the Philippines**  
 
 I am passionate about building **mobile applications** and managing **system infrastructures**.  
 My expertise includes **React Native**, and **Firebase**, and **system administration** across **Windows & Linux environments**.  
